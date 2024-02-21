@@ -13,7 +13,6 @@ Zahidul Haque is a prospective graduate student for Fall 2024. He graduated with
 - Internship, [BPDB](https://bpdb.gov.bd/){:target="_blank"} (2022)   
 
 **Research Experience**
-
 Review & Economic Analysis of a Solar Powered Water Pumping System for Crop Irrigation - This research paper evaluates and compares a solar powered water pumping system (SPWPS) with a conventional diesel powered water pumping system (DPWPS) for crop irrigation. The paper uses technical, environmental, and economic criteria to assess the feasibility and performance of the SPWPS, and develops a mathematical model to estimate its cost based on the irrigation needs and solar radiation data. The paper shows that the SPWPS is a viable and sustainable option for irrigation in remote areas where grid electricity is scarce or unreliable.
 
 **Projects**
