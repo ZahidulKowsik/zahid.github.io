@@ -7,7 +7,7 @@ profile:
 published: true
 ---
 
-Zahidul Haque is a prospective graduate student for Fall 2024. He graduated with a Bachelor of Science in Mechanical Engineering from Rajshahi University of Engineering and Technology (RUET). He is intrigued by research and innovation in the intersection of Renewable Energy and Machine Learning. 
+Zahidul Haque is a prospective graduate student for Fall 2024. He graduated with a Bachelor of Science in Mechanical Engineering from Rajshahi University of Engineering and Technology (RUET). He is intrigued by research and innovation in the intersection of Mechanical Engineering and Machine Learning. 
 
 **Professional Experience**  
 - Internship, [BPDB](https://bpdb.gov.bd/){:target="_blank"} (2022): I have gained practical knowledge of power generation, transmission, and distribution systems during my one-month industrial attachment at the Bangladesh Power Development Board. I have visited and observed the operation and maintenance of the Barapukuria Coal Mining Limited and the Barapukuria Coal Power Plant in Dinajpur.  
