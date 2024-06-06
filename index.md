@@ -7,7 +7,7 @@ profile:
 published: true
 ---
 
-Zahidul Haque is a prospective graduate student for Fall 2024. He graduated with a Bachelor of Science in Mechanical Engineering from Rajshahi University of Engineering and Technology (RUET). He is intrigued by research and innovation in the intersection of Mechanical Engineering and Machine Learning. 
+Zahidul Haque is a prospective graduate student for Fall 2024. He graduated with a Bachelor of Science in Mechanical Engineering from Rajshahi University of Engineering and Technology (RUET). His research interests lie at the intersection of Mechanical Engineering and Machine Learning, where he explores innovative solutions for sustainable manufacturing. Zahidul is particularly intrigued by Advanced Sustainable Manufacturing Techniques, Renewable Energy, and the role of Automation and Robotics in Modern Manufacturing Systems. His passion for interdisciplinary work drives him to seek out opportunities that bridge engineering principles with cutting-edge technologies. 
 
 **Research Experience**
 
