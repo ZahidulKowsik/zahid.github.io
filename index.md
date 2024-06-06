@@ -7,14 +7,14 @@ profile:
 published: true
 ---
 
-Zahidul Haque is a prospective graduate student for Fall 2024. He graduated with a Bachelor of Science in Mechanical Engineering from Rajshahi University of Engineering and Technology (RUET). His research interests lie at the intersection of Mechanical Engineering and Machine Learning, where he explores innovative solutions for sustainable manufacturing. Zahidul is particularly intrigued by Advanced Sustainable Manufacturing Techniques, Renewable Energy, and the role of Automation and Robotics in Modern Manufacturing Systems. His passion for interdisciplinary work drives him to seek out opportunities that bridge engineering principles with cutting-edge technologies. 
+Zahidul Haque is a prospective graduate student for Fall 2024. He graduated with a Bachelor of Science in Mechanical Engineering from Rajshahi University of Engineering and Technology (RUET). Zahidul is particularly intrigued by Advanced Sustainable Manufacturing Techniques, Renewable Energy, and the role of Automation and Robotics in Modern Manufacturing Systems. His passion for interdisciplinary work drives him to seek out opportunities that bridge engineering principles with cutting-edge technologies. 
 
 **Research Experience**
 
 **Review & Economic Analysis of a Solar Powered Water Pumping System for Crop Irrigation** - This research paper evaluates and compares a solar powered water pumping system (SPWPS) with a conventional diesel powered water pumping system (DPWPS) for crop irrigation. The paper uses technical, environmental, and economic criteria to assess the feasibility and performance of the SPWPS, and develops a mathematical model to estimate its cost based on the irrigation needs and solar radiation data. The paper shows that the SPWPS is a viable and sustainable option for irrigation in remote areas where grid electricity is scarce or unreliable.
 
 **Professional Experience**  
-- Internship, [BPDB](https://bpdb.gov.bd/){:target="_blank"} (2022): I have gained practical knowledge of power generation, transmission, and distribution systems during my one-month industrial attachment at the Bangladesh Power Development Board. I have visited and observed the operation and maintenance of the Barapukuria Coal Mining Limited and the Barapukuria Coal Power Plant in Dinajpur.  
+- Internship, [BPDB](https://bpdb.gov.bd/){:target="_blank"} (2022): Zahidul Haque has gained practical knowledge of power generation, transmission, and distribution systems during a one-month industrial attachment at the Bangladesh Power Development Board. He visited and observed the operation and maintenance of the Barapukuria Coal Mining Limited and the Barapukuria Coal Power Plant in Dinajpur.  
 
 **Projects**
 - **Automatic street light system based on Light-Dependent Resistor (LDR)**:  Designed and implemented a circuit that uses an LDR and a transistor to control the switching of street lights based on the ambient light intensity.
@@ -25,4 +25,4 @@ Zahidul Haque is a prospective graduate student for Fall 2024. He graduated with
 
 
 **Hobbies**  
-- Reading, Gaming
+- Reading, Sports
